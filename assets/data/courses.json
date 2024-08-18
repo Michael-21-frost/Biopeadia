@@ -1,0 +1,54 @@
+[
+  {
+    "course_name" :"Introduction to cell",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/cell.jpeg"
+  },
+  {
+    "course_name" :"Biochemistry",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/biochemistry.jpg"
+  },
+  {
+    "course_name" :"the kidney",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/kidney.jpeg"
+  },
+  {
+    "course_name" :"transport systems",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/transportationSystem.jpeg"
+  },
+
+  {
+    "course_name" :"null",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/bacteriology.jpeg"
+  },
+  {
+    "course_name" :"null",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/skeleton.jpeg"
+  },
+
+  {
+    "course_name" :"null",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/fishAnatomy.JPG"
+  },
+
+  {
+    "course_name" :"null",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/microbiology.jpeg"
+  },
+
+  {
+    "course_name" :"null",
+    "course_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti exercitationem dolorum reiciendis excepturi rem esse, id error beatae omnis nisi.",
+    "course_image":"assets/images/course thumb/variation.jpeg"
+  }
+
+  
+
+]
